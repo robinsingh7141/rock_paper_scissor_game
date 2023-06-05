@@ -1,6 +1,4 @@
 #rock_paper_game
-#robinsingh
-
 import random
 
 options = ("rock","paper", "scissors")
